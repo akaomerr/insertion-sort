@@ -1,6 +1,6 @@
 # insertion-sort
-#[22,27,16,2,18,6] verisini ikili kontrol edeceği için adımlar şu şekilde olur;
-[22,27,16,2,18,6] Step1
+[22,27,16,2,18,6] verisini ikili kontrol edeceği için adımlar şu şekilde olur;
+# [22,27,16,2,18,6] Step1
 [22,16,27,2,18,6] Step2
 [16,22,27,2,18,6] Step3
 [16,22,2,27,18,6] Step4
